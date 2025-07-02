@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 I’m currently doing my final year of computer engineering!
 - 🌱 I’m currently learning cloud computing!
-- 👯 I’m looking to collaborate on cloud AWS and C# roles!
+- 👯 I’m looking to collaborate on cloud Azure and C# roles!
 
 <!--
 **JulaleAbdulale/JulaleAbdulale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
